@@ -9,10 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "review oss.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
+        }
+      },
+      {
+        "id": "d0a8e9449607ced0",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "review oss.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +97,15 @@
   },
   "active": "9c197e9c582c6d97",
   "lastOpenFiles": [
-    "review oss.md"
+    "README.md",
+    "papers/Howison, J., Inoue, K., Crowston, K., 2006. Social dynamics of free and open source team communications..md",
+    "authors/vasilescu.md",
+    "papers/Crowston, K., Annabi, H., Howison, J., 2003. Defining Open Source Software Project Success..md",
+    "authors/crowston.md",
+    "authors/herbsleb.md",
+    "authors/howison.md",
+    "authors/steinmacher.md",
+    "Howison, J., Inoue, K., Crowston, K., 2006. Social dynamics of free and open source team communications.md",
+    "papers/Dabbish, L., Stuart, C., Tsay, J., Herbsleb, J., 2012. Social coding in GitHub. transparency and collaboration in an open software repository.md"
   ]
 }
