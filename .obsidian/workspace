@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "2c64a8384bc4c9fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c197e9c582c6d97",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "review oss.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ebb8eb106565f31",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5f2941cc744d021",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9925f32c34ec4eba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a76eeabc7a8bb854",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ceeedeaf4de47b4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d132e63f880ee520",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e50c7d6058b62bd7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "review oss.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9c197e9c582c6d97",
+  "lastOpenFiles": [
+    "review oss.md"
+  ]
+}
