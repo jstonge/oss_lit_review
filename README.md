@@ -17,4 +17,11 @@ This is an [obsidian](https://obsidian.md/)-based literature review of the socia
 
 ## Instructions:
 
-  1- Our author network is that of `mentoree-mentor` (e.g. phd student $\rightarrow$ supervisor). When linking authors, make sure you always only link mentorees to mentors. 
+### Backlinks
+
+  - Our author network is that of `mentoree-mentor` (e.g. phd student $\rightarrow$ supervisor). When linking authors, make sure you always only link mentorees to mentors.
+  
+### Tagging systems
+
+  - Use tags to signify authors' affiliations and what they are well-known for. This is open-ended, but ideally we want to avoid to many overlapping categories. 
+  - Use tags to differentiate between papers, blogs, and authors.
